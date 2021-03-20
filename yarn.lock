@@ -1937,6 +1937,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@stripe/stripe-js@^1.13.1":
+  "integrity" "sha512-mmW+38/RJiWP0B7jmekL+MTDpkDMi34ygZ3j0NIoGa/h6eAXlGDA4lOqqg6aMH9Jd2RzDUndKxvSPPQnFnpdqw=="
+  "resolved" "https://registry.npmjs.org/@stripe/stripe-js/-/stripe-js-1.13.1.tgz"
+  "version" "1.13.1"
+
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   "integrity" "sha512-yBMPqmd1yEJo/280PAMkychuaALyQ9Lkb5q1ck3mjJrFuEobIfhnQ4J3mbvBoISmR3SWMWV+cGB/I0lCQee79A=="
   "resolved" "https://registry.npmjs.org/@surma/rollup-plugin-off-main-thread/-/rollup-plugin-off-main-thread-1.4.2.tgz"
